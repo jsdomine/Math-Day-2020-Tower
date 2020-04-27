@@ -1,5 +1,7 @@
 # Tower (Truss Optimization)
 
+![hello!](gtcpreview.png)
+
 <object data="https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/conference-posters/gtc2020-posters/Design_Engineering_01_P21881_Jaryd_Domine_Web.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/conference-posters/gtc2020-posters/Design_Engineering_01_P21881_Jaryd_Domine_Web.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/conference-posters/gtc2020-posters/Design_Engineering_01_P21881_Jaryd_Domine_Web.pdf">GTC 2020 Poster PDF</a>.</p>
