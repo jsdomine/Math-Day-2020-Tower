@@ -1,5 +1,6 @@
 # Tower (Truss Optimization)
 
+This project was accepted for poster presentation at Nvidia's GTC (GPU Techonology Conference) 2020! Due to the circumstances the conference was held digitally, but nonetheless we had the chance to share our work with many geat minds who appreciate parallel programming!
 ![hello!](gtcpreview.png)
 
 <object data="https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/conference-posters/gtc2020-posters/Design_Engineering_01_P21881_Jaryd_Domine_Web.pdf" type="application/pdf" width="700px" height="700px">
