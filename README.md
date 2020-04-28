@@ -4,7 +4,7 @@ This project was accepted for poster presentation at Nvidia's GTC (GPU Techonolo
 ![hello!](gtcpreview.png)
 You can view the full PDF here: <a href="https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/conference-posters/gtc2020-posters/Design_Engineering_01_P21881_Jaryd_Domine_Web.pdf">GTC 2020 Poster PDF</a>.
 
-Video Presentation: https://youtu.be/8CS-XO_yV6o
+Video Presentation: https://www.youtube.com/watch?v=bRVauh85Y6E
 
 Google Slides Link: https://docs.google.com/presentation/d/1cT3gzZa2DfHXu1K9kqxm2fBpttTe_aPl37HJD58NsPc/edit?usp=sharing
 
